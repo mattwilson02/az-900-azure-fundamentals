@@ -28,8 +28,6 @@ Cloud computing includes the ability to **scale elastically**, adding and removi
 Cloud provider: physical security, power, cooling and network connectivity
 Consumer: data and information, access security
 
-![[SCR-20240412-ndxv.png]]
-
 ### Cloud models
 
 **Private cloud**: used by a single entity, providing greater control for the country and IT department, as it may hosted from your own datacenter.
