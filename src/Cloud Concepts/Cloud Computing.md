@@ -39,7 +39,7 @@ The distribution of responsibilities between the provider and consumer of the cl
 ***Information and data, devices, accounts and identities*** 
 - Responsibility always retained by **customer**
 
-***Identity and directory infra*** 
+***Identity and directory infrastructure***
 - **IaaS**, responsibility is **customer**
 - **PaaS** and SaaS, responsibility is **shared**
 
